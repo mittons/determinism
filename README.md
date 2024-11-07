@@ -4,6 +4,8 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Contributing](#contributing)
+- [Versioning](#versioning)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
@@ -16,6 +18,25 @@ Furthermore, this repository may, in future updates:
 - List some key terms along with some factors that could be used to characterize those terms. These definitions will clarify whether the assertions made depend on a specific definition of a given factor or if the definition remains open.
 - Include a "Further Discussion" section designed to provoke further thought and suggest some (but not all) of the potential questions that could be used to prime further consideration.
 
+## Contributing
+I welcome contributions to this project! Here are two guides to help you get started:
+
+- [Simple Guide to Contributing](supporting_documents/CONTRIBUTING_SIMPLE.md): For beginners or those unfamiliar with GitHub.
+- [Advanced Guide to Contributing](supporting_documents/CONTRIBUTING_ADVANCED.md): For experienced GitHub users looking to dive deeper.
+
+Thank you for considering a contribution!
+
+## Versioning
+
+This paper follows [Semantic Versioning](https://semver.org/) principles to track revisions. We use three levels of version updates:
+
+- **Major Versions (X.0.0)**: Substantial changes to content, conclusions, or methodology.
+- **Minor Versions (0.Y.0)**: Moderate updates, such as adding new references or expanding sections.
+- **Patch Versions (0.0.Z)**: Minor corrections or formatting adjustments.
+
+For details on how we apply Semantic Versioning to academic papers, see our [Versioning Guide](supporting_documents/VERSIONING_ACADEMIC_PAPERS.md).
+
+You can view all versions by exploring the [tags on this repository](https://github.com/your-repo/tags), and major releases will include notes summarizing significant changes.
 
 ## License
 
