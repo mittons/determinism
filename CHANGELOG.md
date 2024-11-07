@@ -35,12 +35,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Incorporate further documentation as the paper evolves.
 
 
-## [Second Entry - 2024-11-07]
+## [Third Entry - 2024-11-07]
 ### Added
 - ** README file updated**: Added versioning and contributing sections. 
 
 ### Changed
-- **License Update**: Moved supporting documents to a subfolder.
+- **Moved supporting documents to a separate folder**: Moved supporting documents to a subfolder.
 ### Planned
 - Begin structuring initial sections of the paper based on the foundational proof and development notes.
 - Incorporate further documentation as the paper evolves.
